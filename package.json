@@ -10,6 +10,66 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "element-demo": "^1.0.1"
-  }
+    "element-test-demo": "^1.0.0",
+    "vue-snippet-gen": "0.0.19"
+  },
+  "vue-snippet-gen": [
+    {
+      "path": "element-test-demo/packages",
+      "tagNameType": "kebab",
+      "mainComponents": [
+        "tooltip/src/main.js",
+        "pagination/src/pagination.js",
+        "row/src/row.js",
+        "col/src/col.js",
+        "radio/src/radio.vue",
+        "table/src/table.vue",
+        "menu/src/menu.vue",
+        "container/src/main.vue",
+        "checkbox/src/checkbox.vue",
+        "tag/src/tag.vue",
+        "tabs/src/tabs.vue",
+        "input/src/input.vue",
+        "progress/src/progress.vue",
+        "breadcrumb/src/breadcrumb.vue",
+        "input-number/src/input-number.vue",
+        "tree/src/tree.vue",
+        "select/src/select.vue",
+        "dropdown/src/dropdown.vue",
+        "icon/src/icon.vue",
+        "cascader/src/cascader.vue",
+        "badge/src/main.vue",
+        "steps/src/steps.vue",
+        "steps/src/step.vue",
+        "button/src/button.vue",
+        "switch/src/component.vue",
+        "avatar/src/main.vue",
+        "link/src/main.vue",
+        "slider/src/main.vue",
+        "skeleton/src/index.vue",
+        "dialog/src/component.vue",
+        "empty/src/index.vue",
+        "popover/src/main.vue",
+        "alert/src/main.vue",
+        "popconfirm/src/main.vue",
+        "loading/src/loading.vue",
+        "upload/src/upload.vue",
+        "card/src/main.vue",
+        "rate/src/main.vue",
+        "carousel/src/main.vue",
+        "message-box/src/main.vue",
+        "color-picker/src/main.vue",
+        "collapse/src/collapse.vue",
+        "notification/src/main.vue",
+        "transfer/src/main.vue",
+        "timeline/src/main.vue",
+        "form/src/form.vue",
+        "divider/src/main.vue",
+        "calendar/src/main.vue",
+        "image/src/main.vue",
+        "backtop/src/main.vue",
+        "drawer/src/main.vue"
+      ]
+    }
+  ]
 }
