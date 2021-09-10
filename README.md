@@ -21,4 +21,4 @@
 5. 根目录运行 `npx vue-snippet-gen --conf --filter`；
 6. 打开 `vue` / `html` 文件，即可体验。本例为 `index.vue`。
 
-![演示-helper-demo.gif](https://i.loli.net/2021/09/07/vjGDdiu3ZHXwM7n.gif)
+![Helper演示2.gif](https://i.loli.net/2021/09/10/8QW2SaC1pczILGr.gif)
