@@ -20,3 +20,5 @@
 4. 安装 [`vue-ui-kit-helper`](https://marketplace.visualstudio.com/items?itemName=engvuchen.vue-ui-kit-helper)；
 5. 根目录运行 `npx vue-snippet-gen --conf --filter`；
 6. 打开 `vue` / `html` 文件，即可体验。本例为 `index.vue`。
+
+![演示-helper-demo.gif](https://i.loli.net/2021/09/07/vjGDdiu3ZHXwM7n.gif)
