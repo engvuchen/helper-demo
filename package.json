@@ -10,8 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "element-test-demo": "^1.0.0",
-    "vue-snippet-gen": "0.0.19"
+    "element-test-demo": "^1.0.0"
   },
   "vue-snippet-gen": [
     {
