@@ -1,25 +1,8 @@
 <template>
   <div>
     <!--1 : element-test-demo-el-tooltip-->
-    <el-tooltip
-      content=""
-    >
-    <el-tooltip/>
-
     <!--2 : element-test-demo-el-pagination-->
-    <el-pagination
-      :total=""
-      :current-page="1"
-      layout="prev, pager, next, jumper, ->, total"
-      :page-sizes="[10, 20, 30, 40, 50, 100]"
-    >
-    <el-pagination/>
-
     <!--3 : element-test-demo-el-row-->
-    <el-row
-    >
-    <el-row/>
-
     <!--4 : element-test-demo-el-col-->
     <!--5 : element-test-demo-el-radio-->
     <!--6 : element-test-demo-el-table-->
@@ -29,11 +12,6 @@
     <!--10: element-test-demo-el-tag-->
     <!--11: element-test-demo-el-tabs-->
     <!--12: element-test-demo-el-input-->
-    <el-input
-      value=""
-    >
-    <el-input/>
-
     <!--13: element-test-demo-el-progress-->
     <!--14: element-test-demo-el-breadcrumb-->
     <!--15: element-test-demo-el-input-number-->
@@ -46,10 +24,7 @@
     <!--22: element-test-demo-el-steps-->
     <!--23: element-test-demo-el-step-->
     <!--24: element-test-demo-el-button-->
-    <el-button
-      type="success"
-    >
-    <el-button/>
+    <el-button type="warning"> </el-button>
 
     <!--25: element-test-demo-el-switch-->
     <!--26: element-test-demo-el-avatar-->
